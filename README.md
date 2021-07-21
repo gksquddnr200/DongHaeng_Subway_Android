@@ -41,13 +41,11 @@
 
 ## ️🙋🏻‍♂️팀 구성
 
-  * **안재엽: Main Developer**
-
-    * `Prototype Development`, `Dijkstra Algorithm`, `SQLite`, `UI Design`
 
   * **한병욱: Sub Developer**
-
     * `SQLite`, `Data Management`, `UI Design`, `Dijkstra Algorithm`
+  
+  * **안재엽: Main Developer**
 
   * **홍원일: Team Leader**
 
